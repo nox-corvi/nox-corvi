@@ -1,6 +1,5 @@
-Hi there,
-i'm a system administrator and software developer in a sme trading company, 
-a part-time single father of a wonderful son and enjoy spending my free time in coding, on my piano and in my workshop.
+Hi there! 
+I'm a system administrator and software developer at an SME trading company. I'm also a part-time single father to a wonderful son and enjoy spending my free time coding, playing the piano, and working in my workshop.
 
 <!---
 nox-corvi/nox-corvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
