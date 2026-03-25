@@ -1,5 +1,7 @@
-Hi there! 
-I'm a system administrator and software developer at an SME trading company. I'm also a part-time single father to a wonderful son and enjoy spending my free time coding, playing the piano, and working in my workshop.
+Hej..
+IT generalist, three decades in the field - infrastructure, security, architecture, and development.
+Believe in systems, not in tickets.
+Father, pianist, woodworker. Wear black, self-host what may, prefer repairing over replacing - houses, code, and ideas alike.
 
 <!---
 nox-corvi/nox-corvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
