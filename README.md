@@ -1,6 +1,6 @@
-Hej..  
-IT generalist, three decades in the field - infrastructure, security, architecture, and development. 
-Believe in systems, not in tickets. 
+Hej..<br>
+IT generalist, three decades in the field - infrastructure, security, architecture, and development.<br>
+Believe in systems, not in tickets.<br>
 Father, pianist, woodworker. Wear black, self-host what may, prefer repairing over replacing - houses, code, and ideas alike.
 
 <!---
